@@ -1,0 +1,28 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: uJoystick
+       Short Description: Pascal-Unit (Sibyl): Class for the Joystick (Gameport); (German)
+        Long Description: (none)
+
+      Proposed directory
+           for placement:  /pub/os2/dev/pascal
+
+               Your name: 
+           Email address: webstar@chello.at
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: OS/2 Warp 4.0
+ Additional requirements: Joystick: Trust "Predator SV 85"
+
+                Replaces: (none)
+
+
+
+
